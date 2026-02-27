@@ -1,0 +1,27 @@
+{
+    "id": "lzboardkit",
+    "version": "0.0.2",
+    "name": {
+        "zh-cn": "乐造套件库",
+        "en": "LZ kit board library"
+    },
+    "description": {
+        "zh-cn": "包括时钟、蜂鸣器、温湿度等多种传感器和执行器的套件库",
+        "en": "Including clocks, buzzers, temperature and humidity sensors and other modules"
+    },
+	"cover": "cover.png",
+	"author": "lezao",
+	"feature": ["function"],
+    "main": "main.js",
+    "isDevice": false,
+    "compatibilityId": "乐造-lzboardkit-thirdex",
+    "sku": "",
+    "libraryConfig": [],
+    "supportDevices": {
+        "dev-DFRobot-arduinoUno": "^0.0.1"
+    },
+	"mode": "upload",
+	"meta": {
+		"extVersion": "0.1"
+	}
+}
