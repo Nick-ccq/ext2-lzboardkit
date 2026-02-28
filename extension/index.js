@@ -471,7 +471,7 @@ class LZBoardKit {
                     opcode: 'DCMotorRUN',
                     text: formatMessage({
                         id: 'gui.blocklyText.lzboardkit.DCMotorRUN',
-                        default: '鐩存祦鐢垫満[DCMotorNum] 璁剧疆鏂瑰悜寮曡剼[DPIN] 閫熷害寮曡剼[PPIN] 杩愬姩鏂瑰悜[RoDir] 閫熷害[RunSpeed]'
+                        default: '直流电机[DCMotorNum] 设置方向引脚[DPIN] 速度引脚[PPIN] 运动方向[RoDir] 速度[RunSpeed]'
                     }),
                     blockType: BlockType.COMMAND,
                     arguments: {
